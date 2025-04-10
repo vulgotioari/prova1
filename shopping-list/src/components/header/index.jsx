@@ -1,9 +1,9 @@
-import "./style.css";
+import "./styles.css";
 
 export function Header() {
   return (
     <header>
-      <h1>Lista de compras</h1>
+      <h1>Lista de Compras</h1>
     </header>
   );
 }
